@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Smart Workout & Diet Tracker](https://github.com/FelicxWayne/Smart-Workout-Diet-Tracker.git)
 
-- 🌱 I’m currently learning **to build Robust Applications**
+- 🌱 I'm currently diving deep into Spring Boot Microservices and Data Structures.**
 
 
 
