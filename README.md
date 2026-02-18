@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felicx</h1>
-<h3 align="center">A Engineering Student passionate to learn more about development and automation</h3>
+<h3 align="center">An Engineering Student passionate to learn more about development and automation</h3>
 
 - 🔭 I’m currently working on [Smart Workout & Diet Tracker](https://github.com/FelicxWayne/Smart-Workout-Diet-Tracker.git)
 
