@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felicx</h1>
 <h3 align="center">An Engineering Student passionate to learn more about development and automation</h3>
 
-- 🔭 I’m currently working on [Smart Workout & Diet Tracker](https://github.com/FelicxWayne/Smart-Workout-Diet-Tracker.git)
+- 🔭 I’m currently working on [Adaptive API Rate Limiter](https://github.com/FelicxWayne/Adaptive-API-Rate-Limiter)
 
 - 🌱 I'm currently diving deep into Spring Boot Microservices and Data Structures.**
 
